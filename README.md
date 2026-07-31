@@ -18,5 +18,8 @@ git clone https://github.com/ELATLASS/atlass-creative.git
 cd atlass-creative
 ```
 
+## CI/CD
+![CI](https://github.com/ELATLASS/atlass-creative/actions/workflows/ci.yml/badge.svg)
+
 ## License
 MIT — Atlass Corp
