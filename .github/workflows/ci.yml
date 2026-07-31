@@ -1,4 +1,4 @@
-name: CI/CD — Creative Projects
+name: CI
 
 on:
   push:
