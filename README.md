@@ -20,6 +20,8 @@ cd atlass-creative
 
 ## CI/CD
 ![CI](https://github.com/ELATLASS/atlass-creative/actions/workflows/ci.yml/badge.svg)
+n## 📊 Latest Case Study
+- [case-studies/creative/ai-creative-tools-2025-2026.md](https://github.com/ELATLASS/atlass-creative/blob/main/case-studies/creative/ai-creative-tools-2025-2026.md)
 
 ## License
 MIT — Atlass Corp
