@@ -5,6 +5,12 @@
 ## Description
 Creative projects including photography (Canon R8), AI music fusion (Gnaoua x Electro House), drone operations (UAS certified), and visual design.
 
+## Badges
+![CI](https://github.com/ELATLASS/atlass-creative/actions/workflows/ci.yml/badge.svg)
+![Deploy](https://github.com/ELATLASS/atlass-creative/actions/workflows/deploy.yml/badge.svg)
+![Auto Release](https://github.com/ELATLASS/atlass-creative/actions/workflows/release.yml/badge.svg)
+![Dependabot](https://github.com/ELATLASS/atlass-creative/actions/workflows/dependabot.yml/badge.svg)
+
 ## Structure
 - `photography/` — Canon R8 photos, 500px gallery
 - `music/` — AI-generated fusion tracks (Gnaoua x Electro House)
@@ -20,8 +26,6 @@ cd atlass-creative
 
 ## CI/CD
 ![CI](https://github.com/ELATLASS/atlass-creative/actions/workflows/ci.yml/badge.svg)
-n## 📊 Latest Case Study
-- [case-studies/creative/ai-creative-tools-2025-2026.md](https://github.com/ELATLASS/atlass-creative/blob/main/case-studies/creative/ai-creative-tools-2025-2026.md)
 
 ## License
 MIT — Atlass Corp
