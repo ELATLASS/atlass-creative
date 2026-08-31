@@ -10,7 +10,7 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Check assets
         run: |
           echo "Checking creative assets..."
@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: lint
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Validate metadata
         run: |
           echo "Validating creative project metadata..."
@@ -31,6 +31,6 @@ jobs:
     needs: [lint, validate]
     if: github.ref == 'refs/heads/main'
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Deploy assets
         run: echo "Creative assets ready for deployment"
